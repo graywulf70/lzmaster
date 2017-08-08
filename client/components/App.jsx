@@ -2,7 +2,8 @@
     ./client/components/App.jsx
 */
 import React from 'react';
-import Heading from './Heading.jsx'
+import Heading from './Heading.jsx';
+
 
 export default class App extends React.Component {
   render() {

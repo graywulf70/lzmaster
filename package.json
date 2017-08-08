@@ -7,7 +7,9 @@
     "author": "Joseph Balsamo <joseph.balsamo@stonybrook.edu>",
     "license": "MIT",
     "scripts": {
-        "start": "webpack-dev-server"
+        "start": "webpack-dev-server",
+        "build": ""
+
     },
     "dependencies": {
         "bootstrap": "4",
